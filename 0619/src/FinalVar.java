@@ -11,6 +11,7 @@ public class FinalVar {
  * final 변수 사용 테스트
  */
 	public static void main(String[] args) {
+		
 		//VarClass.y=30;
 		VarClass vc1 = new VarClass(10);
 		//vc1.y=50;
