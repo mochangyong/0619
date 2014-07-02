@@ -18,5 +18,6 @@ public class ParameterPolyTest {
 		pf.showSleepingType(employee);//각 객체들을 인자로 던져주면서 showSleepingTyoe 메소드를 호출하였다.
 		pf.showSleepingType(student);//각 객체들을 인자로 던져주면서 showSleepingTyoe 메소드를 호출하였다.
 		pf.showSleepingType(president);//각 객체들을 인자로 던져주면서 showSleepingTyoe 메소드를 호출하였다.
+		
 	}
 }

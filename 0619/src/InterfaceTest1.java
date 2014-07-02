@@ -20,7 +20,7 @@ public class InterfaceTest1 {
 		
 		Interface1Impl in1Impl = new Interface1Impl();//인터체이스를 구현한 클래스로 객체를 생성하는 부분이다.
 		System.out.println("in1Impl.interVar =" +in1Impl.interVar);//In1Impl 레퍼런스 변수로 상수를 호출하는 부분이다.
-		System.out.println("Interface1.interVar =" +Interface1.interVar);//interface1 인터체이스 타입으로 상수를 호출하는 부분이다.
+		System.out.println("Interface1.interVar =" +Interface1.interVar);//interface1 인터페이스 타입으로 상수를 호출하는 부분이다.
 		in1Impl.interface1Method();//In1Impl레퍼런스 변수로 메소드를 호출하는 부분이다. 
 	}
 }
