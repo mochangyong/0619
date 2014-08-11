@@ -27,6 +27,7 @@ public class Test28 {
 //		System.out.println("localVar ="+localVar);
 		//로컬변수는 변수 선언시 값을 초기화 하지 않으면 컴파일러가 값을 자동으로 초기화해 주는 것이 아니라 컴파일 오류가 발생한다. 따라서
 		//27라인의 주석을 해제하면 컴파일 오류가 발생한다. 
+//		System.out.println("staticVar = " + staticVar);
 	}
 	
 }
